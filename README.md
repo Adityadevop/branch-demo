@@ -1,2 +1,2 @@
 # branch-demo
-## this is creted by aditya
+## this is created by aditya
